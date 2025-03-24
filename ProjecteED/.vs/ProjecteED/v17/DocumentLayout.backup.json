@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danic\\desktop\\projecte-ed\\projecteed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danic\\desktop\\projecte-ed\\projecteed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -35,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:24:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T11:24:14.139Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
