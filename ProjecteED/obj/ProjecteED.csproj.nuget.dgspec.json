@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {}
+    "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\ProjecteED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {
+    "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\ProjecteED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
+        "projectUniqueName": "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\ProjecteED.csproj",
         "projectName": "ProjecteED",
-        "projectPath": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
-        "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\obj\\",
+        "projectPath": "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\ProjecteED.csproj",
+        "packagesPath": "C:\\Users\\klaud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\klaud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
