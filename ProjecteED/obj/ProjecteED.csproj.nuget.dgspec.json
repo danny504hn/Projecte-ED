@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {}
+    "C:\\Users\\camar\\Desktop\\project-ed\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {
+    "C:\\Users\\camar\\Desktop\\project-ed\\Projecte-ED\\ProjecteED\\ProjecteED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
+        "projectUniqueName": "C:\\Users\\camar\\Desktop\\project-ed\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
         "projectName": "ProjecteED",
-        "projectPath": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
-        "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danic\\Desktop\\Projecte-ED\\ProjecteED\\obj\\",
+        "projectPath": "C:\\Users\\camar\\Desktop\\project-ed\\Projecte-ED\\ProjecteED\\ProjecteED.csproj",
+        "packagesPath": "C:\\Users\\camar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\camar\\Desktop\\project-ed\\Projecte-ED\\ProjecteED\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
