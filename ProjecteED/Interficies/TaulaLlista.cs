@@ -24,7 +24,17 @@ namespace ProjecteED
             get { return false; }
         }
 
-        public T this[int index] { get { return dades[index]; } set { dades[T value]; } }
+        public T this[int index]
+        {
+            get
+            {
+                return dades[index];
+            }
+            set
+            {
+                dades[index] = value;
+            }
+        }
 
         public TaulaLlista(int capacitatInicial)
         {

@@ -1,0 +1,17 @@
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\bin\Debug\net8.0-windows\ProjecteED.exe
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\bin\Debug\net8.0-windows\ProjecteED.deps.json
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\bin\Debug\net8.0-windows\ProjecteED.runtimeconfig.json
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\bin\Debug\net8.0-windows\ProjecteED.dll
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\bin\Debug\net8.0-windows\ProjecteED.pdb
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.Form1.resources
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.csproj.GenerateResource.cache
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.AssemblyInfoInputs.cache
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.AssemblyInfo.cs
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.csproj.CoreCompileInputs.cache
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.sourcelink.json
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.dll
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\refint\ProjecteED.dll
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.pdb
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ProjecteED.genruntimeconfig.cache
+C:\Users\klaud\OneDrive\Escritorio\Fitxers insti\Entorns\ProjecteED\ProjecteED\obj\Debug\net8.0-windows\ref\ProjecteED.dll
