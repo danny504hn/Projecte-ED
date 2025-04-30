@@ -19,7 +19,8 @@ namespace ProjecteED
 
         private void btnPolaca_Click(object sender, EventArgs e)
         {
-
+            calculadora dlg = new calculadora();
+            dlg.ShowDialog();
         }
 
 
