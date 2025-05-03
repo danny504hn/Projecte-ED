@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:interficies\\compilador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\klaud\\onedrive\\escritorio\\fitxers insti\\entorns\\projecteed\\projecteed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -45,7 +45,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
@@ -65,7 +65,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -90,8 +90,7 @@
               "RelativeToolTip": "Interficies\\Compilador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T09:13:39.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T09:13:39.313Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAPgAAAAAAAAAAAD4vwkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-07T09:04:23.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T09:04:23.052Z"
             },
             {
               "$type": "Document",
@@ -114,7 +112,7 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwv1UAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:04:12.861Z",
               "EditorCaption": ""
@@ -128,8 +126,7 @@
               "ToolTip": "C:\\Users\\klaud\\OneDrive\\Escritorio\\Fitxers insti\\Entorns\\ProjecteED\\ProjecteED\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T09:03:52.362Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-07T09:03:52.362Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:24.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:24.476Z"
             },
             {
               "$type": "Document",
@@ -154,8 +150,7 @@
               "RelativeToolTip": "Interficies\\TaulaLlista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:20.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:20.001Z"
             },
             {
               "$type": "Document",
@@ -167,8 +162,7 @@
               "RelativeToolTip": "Interficies\\Pila.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAQwGcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:15.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:15.671Z"
             }
           ]
         }
