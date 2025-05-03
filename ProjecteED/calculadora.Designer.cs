@@ -87,6 +87,7 @@
             multiplicar.TabIndex = 2;
             multiplicar.Text = "*";
             multiplicar.UseVisualStyleBackColor = true;
+            multiplicar.Click += OperatorOnClick;
             // 
             // numQuatre
             // 
@@ -106,6 +107,7 @@
             resta.TabIndex = 6;
             resta.Text = "-";
             resta.UseVisualStyleBackColor = true;
+            resta.Click += OperatorOnClick;
             // 
             // numSis
             // 
@@ -135,6 +137,7 @@
             suma.TabIndex = 11;
             suma.Text = "+";
             suma.UseVisualStyleBackColor = true;
+            suma.Click += OperatorOnClick;
             // 
             // numNou
             // 
@@ -174,6 +177,7 @@
             divisio.TabIndex = 15;
             divisio.Text = "/";
             divisio.UseVisualStyleBackColor = true;
+            divisio.Click += OperatorOnClick;
             // 
             // borrar
             // 
@@ -183,6 +187,7 @@
             borrar.TabIndex = 14;
             borrar.Text = "Borrar";
             borrar.UseVisualStyleBackColor = true;
+            borrar.Click += borrar_Click;
             // 
             // rentar
             // 
@@ -192,6 +197,7 @@
             rentar.TabIndex = 13;
             rentar.Text = "AC";
             rentar.UseVisualStyleBackColor = true;
+            rentar.Click += rentar_Click;
             // 
             // numZero
             // 
@@ -213,6 +219,7 @@
             total.TabIndex = 16;
             total.Text = "=";
             total.UseVisualStyleBackColor = true;
+            total.Click += total_Click;
             // 
             // pantalla
             // 

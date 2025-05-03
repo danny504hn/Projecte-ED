@@ -171,7 +171,7 @@ namespace ProjecteED
             public EnumeratorPila(T[] values, int nElem)
             {
                 this.data = values;
-                this.position = - 1;
+                this.position = -1;
                 this.limit = nElem;
             }
 
