@@ -22,18 +22,10 @@ namespace ProjecteED
             calculadora dlg = new calculadora();
             dlg.ShowDialog();
         }
-
-
-        public void VisibleText(bool valor)
+        private void btnValidacio_Click(object sender, EventArgs e)
         {
-            if (valor)
-            {
-                //txtCosa.Visible
-            }
-            else
-            {
-
-            }
+            Form1 dlg = new Form1();
+            dlg.ShowDialog();
         }
     }
 }

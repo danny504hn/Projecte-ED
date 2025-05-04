@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\frmprincipal1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\interficies\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +47,8 @@
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\frmprincipal1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\interficies\\taulallista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:interficies\\taulallista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|c:\\users\\danny\\desktop\\proyecte-git\\projecte-ed\\projecteed\\frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{74264A2F-42E7-4F7D-A3FC-2C2EA415CFD9}|ProjecteED.csproj|solutionrelative:frmprincipal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "frmPrincipal1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\frmPrincipal1.Designer.cs",
               "RelativeDocumentMoniker": "frmPrincipal1.Designer.cs",
@@ -92,33 +104,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:10.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:20:27.979Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:20:21.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "calculadora.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.Designer.cs",
               "RelativeDocumentMoniker": "calculadora.Designer.cs",
               "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.Designer.cs",
               "RelativeToolTip": "calculadora.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAEwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T20:02:23.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "calculadora.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.cs",
               "RelativeDocumentMoniker": "calculadora.cs",
               "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.cs",
               "RelativeToolTip": "calculadora.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:58:26.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "calculadora.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\calculadora.cs",
               "RelativeDocumentMoniker": "calculadora.cs",
@@ -130,20 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmPrincipal1.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\frmPrincipal1.cs",
               "RelativeDocumentMoniker": "frmPrincipal1.cs",
               "ToolTip": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\frmPrincipal1.cs",
               "RelativeToolTip": "frmPrincipal1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T09:08:17.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "frmPrincipal1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\frmPrincipal1.cs",
               "RelativeDocumentMoniker": "frmPrincipal1.cs",
@@ -155,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -163,12 +213,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:24.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:24.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TaulaLlista.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Interficies\\TaulaLlista.cs",
               "RelativeDocumentMoniker": "Interficies\\TaulaLlista.cs",
@@ -176,12 +225,11 @@
               "RelativeToolTip": "Interficies\\TaulaLlista.cs",
               "ViewState": "AgIAACQBAAAAAAAAAAAywDcBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:20.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:20.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Desktop\\proyecte-git\\Projecte-ED\\ProjecteED\\Interficies\\Pila.cs",
               "RelativeDocumentMoniker": "Interficies\\Pila.cs",
@@ -189,8 +237,7 @@
               "RelativeToolTip": "Interficies\\Pila.cs",
               "ViewState": "AgIAAKUAAAAAAAAAAAA6wLEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T11:27:15.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T11:27:15.671Z"
             }
           ]
         }
